@@ -1,4 +1,4 @@
-# ☕ Coffee Sales Analysis Dashboard (Excel)
+# ☕ Coffee Sales Analysis Excel Dashboard 
 
 ## 📌 Project Overview
 
